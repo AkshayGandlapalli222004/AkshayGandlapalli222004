@@ -17,7 +17,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/M-Manas-s">
+<a href="https://github.com/AkshayGandlapalli222004">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=M-Manas-s&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=M-Manas-s&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -26,6 +26,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/manas-tiwari-5631a31b6/"><img src="https://img.shields.io/badge/-Manas%20Tiwari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:manastiwari111222@gmail.com"><img src="https://img.shields.io/badge/-manastiwari111222@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sai-akshay-gandlapalli-280868220/"><img src="https://img.shields.io/badge/-Manas%20Tiwari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:12116.saiakshay@gmail.com"><img src="https://img.shields.io/badge/-manastiwari111222@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
