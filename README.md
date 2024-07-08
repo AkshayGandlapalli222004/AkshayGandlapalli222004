@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies. I also love problem solving.\
+💡 &nbsp;I like to explore new technologies. I also love to solve suistainable problems with New Gen Tech Stacks.\
 🎓 &nbsp;I'm currently studying Computer Science at Vellore Institue of Technology, Chennai.\
 🌱 &nbsp;I'm on track for learning more about APIs, Systems Design, Cyber Security and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I would love to play Badminton and Tennis.\
